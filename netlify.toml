@@ -1,4 +1,0 @@
-[build]
-  command = "CI= yarn build"
-  publish = "build"
-  base = "https://github.com/artillandorian/TP"
