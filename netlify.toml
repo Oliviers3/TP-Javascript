@@ -1,4 +1,4 @@
 [build]
   command = "CI= yarn build"
   publish = "build"
-  base = "https://github.com/Oliviers3/TP-Javascript/edit/master/"
+  base = "https://github.com/artillandorian/TP"
